@@ -1,2 +1,8 @@
-# ruby_silver_notes
-Ruby Silver試験の試験対策です。
+# ✨ ruby_silver_notes
+Ruby Silver試験の試験対策として、模擬試験や問題集で**分からなかった問題・曖昧だった知識**を自分なりにまとめたノートです。
+理解を深め、外出先でも見返せるように Markdown形式で整理しています。
+
+---
+
+## 🎯 目的
+
